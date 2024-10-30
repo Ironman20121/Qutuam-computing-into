@@ -1,0 +1,5 @@
+https://www.ibm.com/quantum
+https://learning.quantum.ibm.com/catalog/tutorials
+https://github.com/Ironman20121/Quantum-on-imbalanced-data-
+https://docs.anaconda.com/miniconda/miniconda-install/
+https://www.oreilly.com/library/view/qiskit-pocket-guide/9781098112462/ch01.html
